@@ -1,0 +1,21 @@
+atun 20 12.50
+boing 50 8.50
+sabritas 40 9.00
+papel 20 10.00
+flan 50 6.00
+bolillo 80 1.50
+leche 40 8.50
+queso 20 17.00
+gansito 25 8.00
+cloro 10 20.00
+salchicha 15 13.50
+cocacola600 30 10.00
+chicles 50 0.50
+palomitas 20 6.50
+salsa 15 9.00
+papas 25 15.00
+cigarros 30 48.00
+pepsi600 30 10.00
+danonino 20 5.00
+galletas 15 12.00
+
